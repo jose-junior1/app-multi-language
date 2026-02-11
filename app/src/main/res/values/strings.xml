@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppMultiLanguage</string>
+    <string name="greeting">Olá! Seja bem vindo ao meu primeiro App!</string>
+</resources>
